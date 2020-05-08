@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentParametros</string>
+    <string name="etNombre1">Nombre</string>
+    <string name="etNombre2">IntentParametros</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="BotonRegresar">Regresar</string>
+</resources>
